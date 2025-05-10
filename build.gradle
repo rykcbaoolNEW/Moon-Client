@@ -29,7 +29,7 @@ tasks.withType(JavaCompile).configureEach {
 
 
 tasks.withType(JavaCompile).configureEach {
-    it.options.release.set(17)
+    it.options.release.set(21)
 }
 
 loom {
