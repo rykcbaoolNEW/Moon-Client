@@ -1,8 +1,7 @@
 plugins {
-    id 'fabric-loom' version '1.5'
+    id 'fabric-loom' version '1.2.22' // this version is confirmed to work
     id 'maven-publish'
 }
-
 
 group = 'com.example'
 version = '1.0.0'
